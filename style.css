@@ -1,0 +1,37 @@
+
+
+/* body{
+    border: 2px solid red;
+} */
+
+
+
+#circle-5{
+    background-color: brown ;
+    border: 2px solid red;
+}
+.circle, .square {
+    height: 100px;
+    width: 100px;
+    /* margin: 10px; */
+}
+
+.circle{
+   
+    background-color: blue ;
+    border: 2px solid black;
+    border-radius: 50%;
+
+} 
+
+.square{
+    background-color: green ;
+    border: 2px solid red;
+}
+
+.squares{
+    border: 2px solid yellow ;
+    display: flex ;
+    justify-content: space-evenly;
+    padding: 10px;
+}
